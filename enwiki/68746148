@@ -1,0 +1,119 @@
+{
+  "title": "Daniel Ngamije",
+  "pageID": 68746148,
+  "categories": [
+    "Living people",
+    "21st-century Rwandan politicians",
+    "Government ministers of Rwanda",
+    "Health ministers of Rwanda",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Daniel Ngamije is currently serving as the Minister of Health in Rwanda.",
+              "formatting": {
+                "bold": [
+                  "Daniel Ngamije"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed in February 2020 by the President of Rwanda.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "Paul Kagame"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Minister in Rwanda",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-02-27",
+          "title": "Meet The New Cabinet Members",
+          "url": "https://www.ktpress.rw/2020/02/meet-the-new-cabinet-members/",
+          "access-date": "2021-09-17",
+          "website": "KT PRESS",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Dr",
+          "url": "https://www.gpmb.org/board/item/dr-daniel-m.-ngamije",
+          "access-date": "2021-09-17",
+          "website": "www.gpmb.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ngamije bagged a bachelor’s degree in Medicine and Surgery from Universite de Kinhasa and master’s degree in Medicine in Public Health from Universite Libre de Bruxelles, Brusells, Belgium.",
+              "links": [
+                {
+                  "text": "Universite de Kinhasa",
+                  "type": "internal",
+                  "page": "University of Kinshasa"
+                }
+              ]
+            },
+            {
+              "text": "From 1995 to 1997 Ngamije worked as a Medical Doctor in Kabgayi Hospital."
+            },
+            {
+              "text": "Thereafter, he held other positions in the Ministry of Health and other Rwandan Health sectors in Rwanda."
+            },
+            {
+              "text": "He was the Coordinator of the Project Implementation Unit from 2007 to 2017."
+            },
+            {
+              "text": "Before he was appointed as the Minister of Health in February 2020, he was the Executive for Malaria and Neglected Tropical Diseases under the World Health Organisation."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "MOH: About",
+          "url": "https://www.moh.gov.rw/about",
+          "access-date": "2021-09-17",
+          "website": "www.moh.gov.rw",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
