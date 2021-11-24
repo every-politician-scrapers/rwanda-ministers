@@ -6,18 +6,30 @@ require 'pry'
 
 class MemberList
   class Member
-    def name
-      noko.css('.name').text.tidy
+    field :name do
+      node.css('.mabo0').text.tidy
     end
 
-    def position
-      noko.css('.position').text.tidy
+    field :position do
+      node.css('.txt_grey').text.tidy
+    end
+
+    def empty?
+      name.to_s.empty?
+    end
+
+    def node
+      noko.parent
     end
   end
 
   class Members
+    def member_items
+      super.reject(&:empty?)
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('.col-12 > img')
     end
   end
 end
