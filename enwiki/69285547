@@ -1,5 +1,5 @@
 {
-  "title": "Jeanette Bayisenge",
+  "title": "Jeannette Bayisenge",
   "pageID": 69285547,
   "categories": [
     "Women government ministers of Rwanda",
@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Prof. Jeannette Bayisenge is Rwandan Politician and Socialist who currently serve as Minister of Gender and Family Promotion in Rwanda (MIGEPROF)since 2020 and Associate Professor of Gender studies at the University of Rwanda.",
+              "text": "Prof. Jeannette Bayisenge is Rwandan politician and socialist who currently serves as Minister of Gender and Family Promotion in Rwanda (MIGEPROF) since 2020 and Associate Professor of Gender studies at the University of Rwanda.",
               "links": [
                 {
                   "text": "Rwandan",
@@ -44,10 +44,6 @@
         {
           "description": "Rwandan politician and socialist",
           "template": "short description"
-        },
-        {
-          "date": "November 2021",
-          "template": "orphan"
         }
       ],
       "references": [
@@ -72,13 +68,13 @@
       ]
     },
     {
-      "title": "Educations",
+      "title": "Education",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Prof. Jeannette holds a Ph.D in Social Work with a focus on Gender from University of Gothenburg, Sweden, a Master`s Degree in Development Cooperation with Specialization in Women and Development from EWHA Woman's University in Seoul-South Korea and a Bachelor`s Degree in Social Work from National University of Rwanda.",
+              "text": "Bayisenge holds a Ph.D in Social Work with a focus on Gender from University of Gothenburg, Sweden, a Master's degree in Development Cooperation with Specialization in Women and Development from EWHA Woman's University in Seoul-South Korea and a Bachelor's degree in Social Work from National University of Rwanda.",
               "links": [
                 {
                   "type": "internal",
@@ -136,7 +132,7 @@
         {
           "sentences": [
             {
-              "text": "Prior to her Appointment, Prof. Jeannette was serving as Director of the Centre of Gender Studies and Associate Professor of Gender Studies at the University of Rwanda`s College of Arts and Social Sciences (UR-CASS) where she had worked since 2004.",
+              "text": "Prior to her appointment, Bayisenge was serving as Director of the Centre of Gender Studies and Associate Professor of Gender Studies at the University of Rwanda's College of Arts and Social Sciences (UR-CASS) where she had worked since 2004.",
               "links": [
                 {
                   "type": "internal",
@@ -145,10 +141,10 @@
               ]
             },
             {
-              "text": "She aso served as the President of the National Women`s Council since June 2018."
+              "text": "She has also served as the President of the National Women's Council since June 2018."
             },
             {
-              "text": "Prof. Jeannette also served on several boards and councils including the Chairperson of the Council of the City of Kigali and Gasabo District, Vice Chairperson of Board of Directors in Local Administrative Entities Development Agency (LODA) as well as Board Member in National ID Agency(NIDA).",
+              "text": "Bayisenge also served on several boards and councils including the Chairperson of the Council of the City of Kigali and Gasabo District, Vice Chairperson of Board of Directors in Local Administrative Entities Development Agency (LODA) as well as Board Member in National ID Agency(NIDA).",
               "links": [
                 {
                   "type": "internal",
@@ -229,6 +225,9 @@
       "templates": [
         {
           "template": "reflist"
+        },
+        {
+          "template": "authority control"
         },
         {
           "template": "rwanda-politician-stub"
