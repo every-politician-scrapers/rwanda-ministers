@@ -597,18 +597,7 @@
             "text": "1990–2000"
           },
           "allegiance": {
-            "text": "🇷🇼 Rwanda",
-            "links": [
-              {
-                "text": "🇷🇼",
-                "type": "internal",
-                "page": "rwanda"
-              },
-              {
-                "type": "internal",
-                "page": "Rwanda"
-              }
-            ]
+            "text": "🇷🇼"
           },
           "battles": {
             "text": "Ugandan Bush War\nRwandan Civil War",
