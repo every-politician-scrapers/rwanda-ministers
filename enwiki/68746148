@@ -41,27 +41,6 @@
           "description": "Minister in Rwanda",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "date": "2020-02-27",
-          "title": "Meet The New Cabinet Members",
-          "url": "https://www.ktpress.rw/2020/02/meet-the-new-cabinet-members/",
-          "access-date": "2021-09-17",
-          "website": "KT PRESS",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Dr",
-          "url": "https://www.gpmb.org/board/item/dr-daniel-m.-ngamije",
-          "access-date": "2021-09-17",
-          "website": "www.gpmb.org",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

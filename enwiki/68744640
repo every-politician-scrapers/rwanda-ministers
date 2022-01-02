@@ -37,42 +37,6 @@
           "description": "Minister in Rwanda",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "date": "2021-07-26",
-          "title": "Education minister back in parliament over UR issues",
-          "url": "https://www.newtimes.co.rw/news/education-minister-back-parliament-over-ur-issues",
-          "access-date": "2021-09-17",
-          "website": "The New Times {{!}} Rwanda",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-10-23",
-          "title": "Valentine Uwamariya",
-          "url": "https://live.worldbank.org/experts/valentine-uwamariya",
-          "access-date": "2021-09-17",
-          "website": "Banco Mundial En Vivo",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Dr. Valentine UWAMARIYA {{!}} The Minister of Education",
-          "url": "https://www.mineduc.gov.rw/about",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Alumna Dr. Valentine Uwamariya appointed as Minister of Education in Rwanda {{!}} IHE Delft Institute for Water Education",
-          "url": "https://www.un-ihe.org/news/alumna-dr-valentine-uwamariya-appointed-minister-education-rwanda",
-          "access-date": "2021-09-17",
-          "website": "www.un-ihe.org",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

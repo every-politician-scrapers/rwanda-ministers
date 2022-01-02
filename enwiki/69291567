@@ -43,28 +43,6 @@
           "description": "Rwandan politician and economist",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "date": "2021-03-17",
-          "title": "Who are the new ministers and provincial governors?",
-          "url": "https://www.newtimes.co.rw/news/who-are-new-ministers-and-provincial-governors",
-          "access-date": "2021-11-17",
-          "website": "The New Times {{!}} Rwanda",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-03-17",
-          "title": "New trade minister to prioritise SME growth",
-          "url": "https://www.newtimes.co.rw/news/new-trade-minister-prioritise-sme-growth",
-          "access-date": "2021-11-17",
-          "website": "The New Times {{!}} Rwanda",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

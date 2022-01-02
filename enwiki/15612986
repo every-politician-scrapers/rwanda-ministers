@@ -73,15 +73,6 @@
           "description": "Rwandan politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "title": "Ministry of Environment",
-          "url": "https://www.environment.gov.rw/about",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

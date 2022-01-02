@@ -122,28 +122,6 @@
           "date": "June 2013",
           "template": "use dmy dates"
         }
-      ],
-      "references": [
-        {
-          "last": "Off",
-          "first": "Carol",
-          "title": "The Lion, the Fox, and the Eagle: A story of generals and justice in Rwanda and Yugoslavia",
-          "publisher": "Random House",
-          "year": "2000",
-          "isbn": "0-679-31138-6",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "last": "Bosco",
-          "first": "David",
-          "url": "https://www.washingtonpost.com/wp-dyn/content/article/2010/04/02/AR2010040201517.html",
-          "title": "Rwanda's ex-U.N. ambassador, who vanished after genocide, resurfaces in Alabama",
-          "newspaper": "The Washington Post",
-          "date": "4 April 2010",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

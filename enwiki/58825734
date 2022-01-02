@@ -107,30 +107,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.newtimes.co.rw/news/kagame-reshuffles-cabinet",
-          "title": "Kagame reshuffles Cabinet, women take up more slots",
-          "newspaper": "The New Times (Rwanda)",
-          "access-date": "19 October 2018",
-          "date": "19 October 2018",
-          "author": "Collins Mwai",
-          "location": "Kigali",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "publisher": "KTPress Rwanda",
-          "url": "http://ktpress.rw/2018/10/rwanda-gets-new-50-50-gender-cabinet-fewer-ministers/",
-          "title": "Rwanda Gets New 50-50 Gender Cabinet, Fewer Ministers",
-          "access-date": "19 October 2018",
-          "date": "18 October 2018",
-          "author": "Jean de la Croix Tabaro",
-          "location": "Kigali",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

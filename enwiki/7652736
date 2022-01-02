@@ -124,23 +124,6 @@
           "description": "Rwandan academic and politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://en.unpacampaign.org/supporters/overview/?mapcountry=allhea&mapgroup=hea",
-          "title": "Supporters",
-          "work": "Campaign for a UN Parliamentary Assembly",
-          "access-date": "2017-09-26",
-          "language": "en-US",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -113,42 +113,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "first": "Collins",
-          "last": "Mwai",
-          "date": "November 5, 2019",
-          "url": "https://www.newtimes.co.rw/news/kagame-names-new-cabinet-ministers",
-          "website": "New Times of Rwanda",
-          "title": "Kagame names new cabinet ministers",
-          "access-date": "November 5, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "August 31, 2017",
-          "url": "http://www.newtimes.co.rw/section/read/219033/",
-          "title": "Rwanda gets new Cabinet, who is in?",
-          "access-date": "September 18, 2017",
-          "first": "Felly",
-          "last": "Kimenyi",
-          "newspaper": "New Times (Rwanda)",
-          "location": "Kigali",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.newtimes.co.rw/section/read/77087/",
-          "title": "Full list of new Cabinet, As at 24 July 2014",
-          "author": "Times Reporter",
-          "location": "Kigali",
-          "date": "July 24, 2014",
-          "access-date": "September 18, 2017",
-          "newspaper": "New Times (Rwanda)",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

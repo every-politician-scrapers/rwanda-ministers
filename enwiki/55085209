@@ -146,30 +146,6 @@
             "text": "Official website"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.newtimes.co.rw/section/read/218969",
-          "title": "Who is the new Prime Minister Edouard Ngirente?",
-          "date": "2017-08-30",
-          "work": "The New Times {{!}} Rwanda",
-          "access-date": "2018-10-06",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "newspaper": "The EastAfrican",
-          "location": "Nairobi",
-          "url": "https://www.theeastafrican.co.ke/news/President-Kagame-appoints-prime-minister/2558-4076812-8843rhz/index.html",
-          "title": "President Kagame names little-known technocrat as PM",
-          "date": "30 August 2017",
-          "access-date": "30 August 2017",
-          "first": "Edmund",
-          "last": "Kagire",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
