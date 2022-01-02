@@ -93,44 +93,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://translate.google.com/translate?hl=en&sl=fr&u=http://www.rnanews.com/economy/13608-six-nouveaux-ministres-entrent-au-gouvernement&prev=search",
-          "title": "Six new Ministers enter the Government",
-          "language": "English",
-          "location": "Kigali",
-          "access-date": "5 September 2017",
-          "date": "31 August 2017",
-          "last": "Gakwaya",
-          "first": "André",
-          "publisher": "Rwanda News Agency (RNA)",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.newtimes.co.rw/section/read/219033/",
-          "title": "Rwanda gets new Cabinet, who is in?",
-          "access-date": "5 September 2017",
-          "date": "31 August 2017",
-          "newspaper": "New Times (Rwanda)",
-          "last": "Kimenyi",
-          "first": "Felly",
-          "location": "Kigali",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "30 August 2017",
-          "url": "http://ktpress.rw/2017/08/new-prime-minister-announces-cabinet/",
-          "title": "New Prime Minister Announces Cabinet",
-          "access-date": "5 September 2017",
-          "publisher": "Kigali Today Press (KT Press)",
-          "author": "KT Press Staff Writer",
-          "location": "Kigali",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

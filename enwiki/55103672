@@ -115,43 +115,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Kimenyi",
-          "url": "http://www.newtimes.co.rw/section/read/219033/",
-          "title": "Rwanda gets new Cabinet, who is in?",
-          "accessdate": "1 September 2017",
-          "date": "31 August 2017",
-          "first": "Felly",
-          "newspaper": "New Times (Rwanda)",
-          "location": "Kigali",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.newtimes.co.rw/section/read/77275/",
-          "title": "Meet the new female faces in cabinet",
-          "date": "31 July 2014",
-          "last": "Umutesi",
-          "first": "Doreen",
-          "newspaper": "New Times (Rwanda)",
-          "location": "Kigali",
-          "accessdate": "31 August 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "accessdate": "31 August 2017",
-          "url": "http://www.cass.ur.ac.rw/?q=cass-staff-member-becomes-minister-new-cabinet",
-          "title": "CASS staff Member becomes Minister in the New Cabinet",
-          "date": "24 July 2014",
-          "publisher": "University of Rwanda, College of Arts and Social Sciences (CASS)",
-          "author": "Jean Baptiste Micomyiza",
-          "location": "Kigali",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

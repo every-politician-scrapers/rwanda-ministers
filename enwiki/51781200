@@ -134,29 +134,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.bnr.rw/index.php?id=80",
-          "archive-url": "https://web.archive.org/web/20161011042317/http://www.bnr.rw/index.php?id=80",
-          "url-status": "dead",
-          "archive-date": "11 October 2016",
-          "title": "BNR: Governor",
-          "date": "11 October 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.bnr.rw/index.php?id=80",
-          "title": "Governance of the National Bank of Rwanda: Governor",
-          "access-date": "28 September 2016",
-          "date": "28 September 2016",
-          "publisher": "National Bank of Rwanda (BNR)",
-          "author": "National Bank of Rwanda",
-          "location": "Kigali",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -45,26 +45,6 @@
           "description": "Rwandan politician and socialist",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "title": "Jeannette Bayisenge",
-          "url": "https://theconversation.com/profiles/jeannette-bayisenge-459033",
-          "access-date": "2021-11-16",
-          "website": "The Conversation",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Handover between incoming Minister Prof. BAYISENGE Jeannette and outgoing Minister Amb.Soline NYIRAHABIMANA",
-          "url": "https://www.migeprof.gov.rw/news-detail/handover-between-incoming-minister-prof-bayisenge-jeannette-and-outgoing-minister-ambsoline-nyirahabimana-1",
-          "access-date": "2021-11-16",
-          "website": "www.migeprof.gov.rw",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
