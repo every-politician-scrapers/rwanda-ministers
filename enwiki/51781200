@@ -22,11 +22,6 @@
               "text": "John Rwangombwa is a Rwandan accountant, politician and banker.",
               "links": [
                 {
-                  "text": "Rwandan",
-                  "type": "internal",
-                  "page": "Rwanda"
-                },
-                {
                   "text": "accountant",
                   "type": "internal",
                   "page": "accountant"
@@ -108,14 +103,7 @@
             ]
           },
           "nationality": {
-            "text": "Rwandan",
-            "links": [
-              {
-                "text": "Rwandan",
-                "type": "internal",
-                "page": "Rwanda"
-              }
-            ]
+            "text": "Rwandan"
           },
           "citizenship": {
             "text": "Rwanda"
