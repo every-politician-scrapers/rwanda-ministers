@@ -6,7 +6,6 @@
     "1979 births",
     "Rwandan lawyers",
     "Women government ministers of Rwanda",
-    "Rwandan academics",
     "National University of Rwanda faculty",
     "National University of Rwanda alumni",
     "University of Groningen alumni",
@@ -101,6 +100,15 @@
           },
           "citizenship": {
             "text": "Rwandan"
+          },
+          "organization": {
+            "text": "Government of Rwanda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Rwanda"
+              }
+            ]
           },
           "known_for": {
             "text": "Academia, politics"
