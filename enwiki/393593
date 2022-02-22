@@ -547,6 +547,10 @@
               {
                 "type": "internal",
                 "page": "Ruanda-Urundi"
+              },
+              {
+                "type": "internal",
+                "page": "Rwanda"
               }
             ]
           },
@@ -558,9 +562,6 @@
                 "page": "Rwandan Patriotic Front"
               }
             ]
-          },
-          "nationality": {
-            "text": "Rwandan"
           },
           "alma_mater": {
             "text": "Command and General Staff College",
