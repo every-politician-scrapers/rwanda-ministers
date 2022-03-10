@@ -1,113 +1,13 @@
 {
-  "title": "Rosemary Mbabazi",
-  "pageID": 55115918,
-  "categories": [
-    "Living people",
-    "Government ministers of Rwanda",
-    "Makerere University alumni",
-    "Rwandan businesspeople",
-    "Rwandan women in business",
-    "Women government ministers of Rwanda",
-    "21st-century women politicians",
-    "21st-century businesswomen",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Rosmary Mbabazi, is a businesswoman and politician in Rwanda, who has served as the Cabinet Minister for Youth in the Rwandan cabinet, since 31 August 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rwanda"
-                },
-                {
-                  "text": "Rwandan cabinet",
-                  "type": "internal",
-                  "page": "Cabinet of Rwanda"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Rosmary Mbabazi"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "December 2020",
-          "template": "use dmy dates"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Rosemary Mbabazi"
-          },
-          "image": {
-            "text": "Rosemary Mbabazi 2015.jpg"
-          },
-          "caption": {
-            "text": "Mbabazi in 2015"
-          },
-          "birth_place": {
-            "text": "Rwanda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rwanda"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Makerere University (Bachelor of Education) Institution in the United Kingdom (Master of Business Administration)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Makerere University"
-              }
-            ],
-            "formatting": {
-              "bold": [
-                "Makerere University",
-                "Institution in the United Kingdom"
-              ]
-            }
-          },
-          "occupation": {
-            "text": "Politician, businesswoman"
-          },
-          "years_active": {
-            "text": "2009–present"
-          },
-          "nationality": {
-            "text": "Rwandan"
-          },
-          "citizenship": {
-            "text": "Rwandan"
-          },
-          "known_for": {
-            "text": "Politics"
-          },
-          "title": {
-            "text": "Cabinet Minister for Youth, in the Cabinet of Rwanda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet of Rwanda"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Rosemary Mbabazi",
+  "image": "Rosemary Mbabazi 2015.jpg",
+  "caption": "Mbabazi in 2015",
+  "birth_place": "Rwanda",
+  "alma_mater": "Makerere University (Bachelor of Education) Institution in the United Kingdom (Master of Business Administration)",
+  "occupation": "Politician, businesswoman",
+  "years_active": "2009–present",
+  "nationality": "Rwandan",
+  "citizenship": "Rwandan",
+  "known_for": "Politics",
+  "title": "Cabinet Minister for Youth, in the Cabinet of Rwanda"
 }

@@ -1,113 +1,12 @@
 {
-  "title": "Paula Ingabire",
-  "pageID": 58825734,
-  "categories": [
-    "Living people",
-    "1983 births",
-    "21st-century Rwandan politicians",
-    "21st-century Rwandan women politicians",
-    "Government ministers of Rwanda",
-    "Massachusetts Institute of Technology alumni",
-    "Women government ministers of Rwanda",
-    "University of Rwanda alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Paula Ingabire is a Rwandan technology professional and politician, who serves as the Minister of Information and communications technology and Innovation, in the Cabinet of Rwanda, since 18 October 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Information and communications technology"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cabinet of Rwanda"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Paula Ingabire"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Rwandan politician (born 1983)",
-          "template": "short description"
-        },
-        {
-          "date": "July 2020",
-          "template": "engvarb"
-        },
-        {
-          "date": "April 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1983",
-          "month": "01",
-          "day": "24",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "University of Rwanda (B.S.)",
-            "Massachusetts Institute of Technology (M.S.)"
-          ],
-          "template": "ubl"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Paula Ingabire"
-          },
-          "image": {
-            "text": "Paula Ingabire (cropped).jpg"
-          },
-          "birth_date": {
-            "text": "January 24, 1983"
-          },
-          "birth_place": {
-            "text": "Kenya"
-          },
-          "education": {
-            "text": "University of Rwanda (B.S.)\n\nMassachusetts Institute of Technology (M.S.)"
-          },
-          "occupation": {
-            "text": "Minister of ict and innovation"
-          },
-          "years_active": {
-            "text": "2008–present"
-          },
-          "nationality": {
-            "text": "Rwandan"
-          },
-          "known_for": {
-            "text": "Technology and politics"
-          },
-          "title": {
-            "text": "Minister of ICT and Innovation in the cabinet of Rwanda",
-            "links": [
-              {
-                "text": "cabinet of Rwanda",
-                "type": "internal",
-                "page": "cabinet of Rwanda"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Paula Ingabire",
+  "image": "Paula Ingabire (cropped).jpg",
+  "birth_date": "January 24, 1983",
+  "birth_place": "Kenya",
+  "education": "University of Rwanda (B.S.)\n\nMassachusetts Institute of Technology (M.S.)",
+  "occupation": "Minister of ict and innovation",
+  "years_active": "2008–present",
+  "nationality": "Rwandan",
+  "known_for": "Technology and politics",
+  "title": "Minister of ICT and Innovation in the cabinet of Rwanda"
 }

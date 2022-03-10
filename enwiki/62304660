@@ -1,103 +1,11 @@
 {
-  "title": "Aurore Mimosa Munyangaju",
-  "pageID": 62304660,
-  "categories": [
-    "Living people",
-    "Women government ministers of Rwanda",
-    "21st-century Rwandan politicians",
-    "21st-century women politicians",
-    "Government ministers of Rwanda",
-    "Alumni of Maastricht School of Management",
-    "Year of birth missing (living people)",
-    "Rwandan women in business"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Aurore Mimosa Munyangaju (née Aurore Mimosa), is a Rwandan businesswoman and politician who serves as Minister of Sports since 5 November 2019.",
-              "formatting": {
-                "bold": [
-                  "Aurore Mimosa Munyangaju",
-                  "Aurore Mimosa"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Rwandan businesswoman and politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2019",
-          "template": "engvarb"
-        },
-        {
-          "date": "April 2021",
-          "template": "use dmy dates"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Aurore Mimosa Munyangaju"
-          },
-          "birth_place": {
-            "text": "Rwanda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rwanda"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Maastricht School of Management (Master of Business Administration)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maastricht School of Management"
-              }
-            ],
-            "formatting": {
-              "bold": [
-                "Maastricht School of Management"
-              ]
-            }
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "years_active": {
-            "text": "2000–present"
-          },
-          "nationality": {
-            "text": "Rwandan"
-          },
-          "citizenship": {
-            "text": "Rwandan"
-          },
-          "known_for": {
-            "text": "Business management"
-          },
-          "title": {
-            "text": "Cabinet Minister of Sports Cabinet of Rwanda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet of Rwanda"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Aurore Mimosa Munyangaju",
+  "birth_place": "Rwanda",
+  "alma_mater": "Maastricht School of Management (Master of Business Administration)",
+  "occupation": "Politician",
+  "years_active": "2000–present",
+  "nationality": "Rwandan",
+  "citizenship": "Rwandan",
+  "known_for": "Business management",
+  "title": "Cabinet Minister of Sports Cabinet of Rwanda"
 }
