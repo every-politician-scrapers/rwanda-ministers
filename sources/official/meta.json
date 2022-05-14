@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Rwanda",
+      "id": "Q1037"
+    },
+    "cabinet": {
+      "id": "Q56302664",
+      "start": "2017-08-30",
+      "parent": "Q5176454"
+    },
+    "source": {
+        "url":   "https://www.gov.rw/cabinet",
+        "title": "Government of Rwanda: Cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/rwanda-cabinet"
+}
