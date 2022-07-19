@@ -1,0 +1,158 @@
+{
+  "title": "Patricie Uwase",
+  "pageID": 69284155,
+  "categories": [
+    "21st-century Rwandan women politicians",
+    "21st-century Rwandan politicians",
+    "Living people",
+    "1989 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Patricie Uwase (born 1989) is a Rwandan engineer and politician who currently serve as Minister of State in the Ministry of Infrastructure of the Government of Rwanda.",
+              "links": [
+                {
+                  "text": "Rwandan",
+                  "type": "internal",
+                  "page": "Rwanda"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Patricie Uwase"
+                ]
+              }
+            },
+            {
+              "text": "Previously, she served as Chairperson of the Board of Rwandair and Permanent secretary of Ministry of Infrastructures of Rwanda.",
+              "links": [
+                {
+                  "text": "Rwandair",
+                  "type": "internal",
+                  "page": "RwandAir"
+                },
+                {
+                  "text": "Ministry of Infrastructures",
+                  "type": "internal",
+                  "page": "Ministry of Infrastructure"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rwanda"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Rwandan politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2015-07-01",
+          "title": "My dream for Rwanda keeps me going - Mavubi",
+          "url": "https://www.newtimes.co.rw/section/read/190241",
+          "access-date": "2021-11-16",
+          "website": "The New Times {{!}} Rwanda",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "RwandAir » The new CEO of Rwandair takes up office",
+          "url": "https://www.rwandair.com/rwandairnewfn/media-center/news-press-releases/the-new-ceo-of-rwandair-takes-up-office/#:~:text=Jean%20de%20Dieu%20Uwihanganye%20together,Patricie%20Uwase%20and%20Senior%20Management.",
+          "access-date": "2021-11-16",
+          "website": "www.rwandair.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2018-04-10",
+          "title": "Makolo takes over as RwandAir CEO",
+          "url": "https://www.newtimes.co.rw/business/makolo-takes-over-rwandair-ceo",
+          "access-date": "2021-11-16",
+          "website": "The New Times {{!}} Rwanda",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She holds Bachelor of Science in civil engineering from the former Kigali Institute of Science and Technology (former KIST) in Rwanda, and Masters of Science in civil engieering from University of California, Berkeley",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rwanda"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of California, Berkeley"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2018-01-02",
+          "title": "When Dreams Sustain Ambitions",
+          "url": "https://mastercardfdn.org/when-dreams-sustain-ambitions/",
+          "access-date": "2021-11-16",
+          "website": "Mastercard Foundation",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Patricie Uwase",
+          "url": "https://www.shecan.global/patricie-uwase.html",
+          "access-date": "2021-11-16",
+          "website": "SHE-CAN",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2015-05-19",
+          "title": "Meet Rwandan Girls Making Heads Roll In USA Varsities",
+          "url": "https://www.ktpress.rw/2015/05/meet-rwandan-girls-making-heads-roll-in-usa-varsities/",
+          "access-date": "2021-11-16",
+          "website": "KT PRESS",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "rwanda-bio-stub"
+        }
+      ]
+    }
+  ]
+}
