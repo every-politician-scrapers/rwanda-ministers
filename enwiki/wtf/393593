@@ -6977,6 +6977,41 @@
       ]
     },
     {
+      "title": "Awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Paul Kagame is the recipient of the Lifetime Achievement Award (Champions of the Earth) in 2016.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Champions of the Earth"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "last1": "Environment",
+          "first1": "U. N.",
+          "title": "Paul Kagame",
+          "url": "https://www.unep.org/championsofearth/laureates/2016/paul-kagame",
+          "website": "Champions of the Earth",
+          "language": "en",
+          "date": "22 August 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "See also",
       "depth": 0,
       "paragraphs": [
