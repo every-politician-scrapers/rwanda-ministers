@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Rwanda)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "1994-07-19",
+    "P1365": {
+      "links": [
+        "Augustin Bizimana"
+      ],
+      "stated_as": "Augustin Bizimana"
+    },
+    "P582": "2000-04-22",
+    "P1366": {
+      "links": [
+        "Emmanuel Habyarimana"
+      ],
+      "stated_as": "Emmanuel Habyarimana"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Rwanda"
+      ],
+      "stated_as": "Vice President of Rwanda"
+    },
+    "P580": "1994-07-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2000-04-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Rwanda"
+      ],
+      "stated_as": "4th President of Rwanda"
+    },
+    "P580": "2000-04-22",
+    "P1365": {
+      "links": [
+        "Pasteur Bizimungu"
+      ],
+      "stated_as": "Pasteur Bizimungu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairperson of the African Union"
+      ],
+      "stated_as": "16th Chairperson of the African Union"
+    },
+    "P580": "2018-01-28",
+    "P1365": {
+      "links": [
+        "Alpha Condé"
+      ],
+      "stated_as": "Alpha Condé"
+    },
+    "P582": "2019-02-10",
+    "P1366": {
+      "links": [
+        "Abdel Fattah el-Sisi"
+      ],
+      "stated_as": "Abdel Fattah el-Sisi"
+    }
+  }
+]
