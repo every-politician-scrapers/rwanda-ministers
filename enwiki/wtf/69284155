@@ -30,7 +30,7 @@
               }
             },
             {
-              "text": "Previously, she served as Chairperson of the Board of Rwandair and Permanent secretary of Ministry of Infrastructures of Rwanda.",
+              "text": "Previously, she served as Chairperson of the Board of Rwandair and Permanent Secretary of Ministry of Infrastructure of Rwanda.",
               "links": [
                 {
                   "text": "Rwandair",
@@ -38,7 +38,6 @@
                   "page": "RwandAir"
                 },
                 {
-                  "text": "Ministry of Infrastructures",
                   "type": "internal",
                   "page": "Ministry of Infrastructure"
                 },
@@ -58,16 +57,6 @@
         }
       ],
       "references": [
-        {
-          "date": "2015-07-01",
-          "title": "My dream for Rwanda keeps me going - Mavubi",
-          "url": "https://www.newtimes.co.rw/section/read/190241",
-          "access-date": "2021-11-16",
-          "website": "The New Times {{!}} Rwanda",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "title": "RwandAir » The new CEO of Rwandair takes up office",
           "url": "https://www.rwandair.com/rwandairnewfn/media-center/news-press-releases/the-new-ceo-of-rwandair-takes-up-office/#:~:text=Jean%20de%20Dieu%20Uwihanganye%20together,Patricie%20Uwase%20and%20Senior%20Management.",
@@ -95,7 +84,7 @@
         {
           "sentences": [
             {
-              "text": "She holds Bachelor of Science in civil engineering from the former Kigali Institute of Science and Technology (former KIST) in Rwanda, and Masters of Science in civil engieering from University of California, Berkeley",
+              "text": "She holds a Bachelor of Science in civil engineering from the former Kigali Institute of Science and Technology (former KIST) in Rwanda, and a Master of Science in civil engineering from University of California, Berkeley",
               "links": [
                 {
                   "type": "internal",
@@ -127,16 +116,6 @@
           "access-date": "2021-11-16",
           "website": "SHE-CAN",
           "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2015-05-19",
-          "title": "Meet Rwandan Girls Making Heads Roll In USA Varsities",
-          "url": "https://www.ktpress.rw/2015/05/meet-rwandan-girls-making-heads-roll-in-usa-varsities/",
-          "access-date": "2021-11-16",
-          "website": "KT PRESS",
-          "language": "en-US",
           "template": "citation",
           "type": "web"
         }
